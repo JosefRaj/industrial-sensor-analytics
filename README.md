@@ -50,4 +50,3 @@ reports/technical_report.md
 ## CV status
 
 The repository can support a personal-project bullet after Yousef has reviewed the code and can explain the decisions. It must never be presented as paid work or a deployed industrial system. GitHub publication is pending explicit approval.
-

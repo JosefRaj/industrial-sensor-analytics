@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "row_count": 1728,
+  "machine_count": 3,
+  "missing_values": {},
+  "duplicate_keys": 0,
+  "range_violations": {},
+  "invalid_states": 0,
+  "invalid_splits": 0,
+  "timestamp_order_violations": 0
+}

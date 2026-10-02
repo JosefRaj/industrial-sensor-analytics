@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "sampling_interval_minutes": 5,
+  "training_fraction": 0.7,
+  "detector": "maximum absolute robust z-score",
+  "threshold": 2.0,
+  "data_source": "physics-inspired synthetic generator"
+}
